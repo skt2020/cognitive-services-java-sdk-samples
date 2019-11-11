@@ -46,7 +46,7 @@ public class CustomVisionSamples {
 
             // This demonstrates how to create an object detection project, upload images,
             // train it and make a prediction.
-            ObjectDetection_Sample(trainer, predictor);
+          //  ObjectDetection_Sample(trainer, predictor);
         } catch (Exception e) {
             System.out.println(e.getMessage());
             e.printStackTrace();
